@@ -1,5 +1,4 @@
-<# Author(s)    : Matthew R. Wyenandt, BSEET, GSIF, GSEC, GABM
-   Created On   : 20240930
+<#   Created On   : 20240930
    Purpose      : PowerShell script created to use PSFalcon module for remotely uninstalling CrowdStrike Sensors.
    Last Modified: 20241004
 #>
